@@ -3,4 +3,4 @@
 ###### Users can interact with data belonging to their team which gets synced across all users. 
 ###### The frontend uses Axios to make calls to the backends’ RESTFUL api which has CRUD routes.
 ###### Both the backend and the frontend were deployed on Heroku.
-###### Used:JavaScript (React), NodeJS, ExpressJS, SQL (PostgreSQL), HTML, Bootstrap 5.
+###### Used: JavaScript (React), NodeJS, ExpressJS, SQL (PostgreSQL), HTML, Bootstrap 5.
